@@ -15,3 +15,4 @@ It's very important when a person has a business to have e-commerce website so t
 Before we continue, run the application below. When I was deploying this project on github pages I saw that it doesn't land on a home page which is shop page, so when you click the link below go the shop page as it is the home page then navigate through the website and also it only compatable to desktop or laptop. 
 
 Here is the link
+https://lwandomadebe.github.io/e-commerce-website
