@@ -52,4 +52,7 @@ Here we display the relavant information about the company, products and Service
 Since Adorn Products is also providing services, it's very important to display what kind of service they provide apart from selling products. 
 
 #### Nails Category 
-
+#### Jewelry Category 
+#### Hair Category
+#### Login page 
+#### Cart page 
