@@ -44,3 +44,12 @@ These are the new products that recently arrived in the stock. This shows the cu
 
 ###### Newsletter
 If the customer wants to know more about are trends and tops deals they can subscribe below so that they will receive emails from our store. 
+
+###### Footer
+Here we display the relavant information about the company, products and Services. Please notes the link are not get working 
+
+#### Services 
+Since Adorn Products is also providing services, it's very important to display what kind of service they provide apart from selling products. 
+
+#### Nails Category 
+
