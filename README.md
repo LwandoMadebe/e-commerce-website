@@ -20,3 +20,5 @@ Here is the link
 https://lwandomadebe.github.io/e-commerce-website
 
 ## Functional Requirements 
+Describes the interactions between the system and its environment independent from the implementation. 
+1.
