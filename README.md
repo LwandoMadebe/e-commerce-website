@@ -52,7 +52,19 @@ Here we display the relavant information about the company, products and Service
 Since Adorn Products is also providing services, it's very important to display what kind of service they provide apart from selling products. 
 
 #### Nails Category 
+This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected. 
+
+
 #### Jewelry Category 
+This includes all jewelry products that they are being sold at Adorn Products and customers can add to cart their products they have selected
+
+
 #### Hair Category
+This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected
+
+
 #### Login page 
+This is a login page where customers can login using their login details in order to continue shopping. 
+
 #### Cart page 
+All the products that customers selected will be added here and they will be displayed. Customer can remove products and the total price of the products that they added to cart will be displayed. 
