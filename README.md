@@ -18,3 +18,5 @@ Before we continue, run the application below. When I was deploying this project
 
 Here is the link
 https://lwandomadebe.github.io/e-commerce-website
+
+## Functional Requirements 
