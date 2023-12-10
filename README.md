@@ -45,8 +45,7 @@ Describes the interactions between the system and its environment independent fr
 
 
 
-![Screenshot 2023-12-04 03 57 37](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96)
-![Screenshot 2023-12-04 03 58 01](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6)
+
 
 
 
@@ -82,9 +81,11 @@ This includes all jewelry products that they are being sold at Adorn Products an
 #### Hair Category
 This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected
 
-![Screenshot 2023-12-04 03 54 06](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/8898893b-43d6-417c-800f-fe4a77a8392e)
+
 #### Login page 
 This is a login page where customers can login using their login details in order to continue shopping. 
 
 #### Cart page 
 All the products that customers selected will be added here and they will be displayed. Customer can remove products and the total price of the products that they added to cart will be displayed. 
+![Screenshot 2023-12-04 03 58 01](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6)
+![Screenshot 2023-12-04 03 57 37](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96)
