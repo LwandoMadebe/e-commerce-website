@@ -12,6 +12,12 @@ When I did a research on Silindile Nkosi's business I found out that her busines
 It's very important when a person has a business to have e-commerce website so that customers can purchase products wherever they are in the country. 
 
 ## Langaunges and tools that are used in this project
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08ee5012-219c-4f2f-b3a9-69c1d7b86a37" width='80'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c1770f56-1815-45e7-a5d8-fbab549685c2" width='80'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/544ab130-5afe-4b82-b0d9-89a3b4938958" width='80'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b6819701-159d-4875-b6a7-c36eaa891b94" width='80'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/00f11aef-d2f8-4552-a82b-82aba9fdcd6a" width='80'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/9ea7985f-47cd-4061-a64a-b73567fa99fd" width='80'>
 
 
 ###### Run the application 
