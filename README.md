@@ -50,10 +50,12 @@ These are most bought items that Adorn Products is Selling and it's includs all 
 These are the new products that recently arrived in the stock. This shows the customer that we have a new items available and we are grabbing the attention of the customer. 
 
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33" width='600'>
+
 ###### Newsletter
 If the customer wants to know more about are trends and tops deals they can subscribe below so that they will receive emails from our store.
 
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b4b6e8e3-9650-44db-ab6c-164b4a6d080a" width='600'>
+
 ###### Footer
 Here we display the relavant information about the company, products and Services. Please notes the link are not get working 
 
