@@ -41,13 +41,15 @@ Describes the interactions between the system and its environment independent fr
 
 ## Screenshots of how website is functioning 
 
-![Screenshot 2023-12-04 03 43 26](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7a6ba03d-d3fd-403d-9bb0-560c70976308)
-![Screenshot 2023-12-04 03 43 56](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45)
-![Screenshot 2023-12-04 03 44 29](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b16dd090-35f5-47b0-a742-8dd4eb331efd)
-![Screenshot 2023-12-04 03 45 19](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0643ac4f-3852-4abc-9a6b-be77a3146ada)
-![Screenshot 2023-12-04 03 54 06](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/8898893b-43d6-417c-800f-fe4a77a8392e)
+
+
+
+
 ![Screenshot 2023-12-04 03 57 37](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96)
 ![Screenshot 2023-12-04 03 58 01](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6)
+
+
+
 
 
 
@@ -62,25 +64,25 @@ These are the new products that recently arrived in the stock. This shows the cu
 ![Screenshot 2023-12-04 03 42 39](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33)
 ###### Newsletter
 If the customer wants to know more about are trends and tops deals they can subscribe below so that they will receive emails from our store. 
-![Screenshot 2023-12-04 03 43 07](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/047e9816-518a-4e02-b2db-a653b3099a81)
+![Screenshot 2023-12-04 03 43 07](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b4b6e8e3-9650-44db-ab6c-164b4a6d080a)
 ###### Footer
 Here we display the relavant information about the company, products and Services. Please notes the link are not get working 
-
+![Screenshot 2023-12-04 03 43 26](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/ebf72cac-55e5-4d43-a309-7160a7533b3b)
 #### Services 
 Since Adorn Products is also providing services, it's very important to display what kind of service they provide apart from selling products. 
-
+![Screenshot 2023-12-04 03 43 56](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45)
 #### Nails Category 
 This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected. 
-
+![Screenshot 2023-12-04 03 44 29](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b16dd090-35f5-47b0-a742-8dd4eb331efd)
 
 #### Jewelry Category 
 This includes all jewelry products that they are being sold at Adorn Products and customers can add to cart their products they have selected
-
+![Screenshot 2023-12-04 03 45 19](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0643ac4f-3852-4abc-9a6b-be77a3146ada)
 
 #### Hair Category
 This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected
 
-
+![Screenshot 2023-12-04 03 54 06](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/8898893b-43d6-417c-800f-fe4a77a8392e)
 #### Login page 
 This is a login page where customers can login using their login details in order to continue shopping. 
 
