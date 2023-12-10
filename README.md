@@ -94,3 +94,12 @@ All the products that customers selected will be added here and they will be dis
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c8bb6bf9-271a-4b0b-949e-2eb5ae950155" width='600'>
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/9c352979-a77e-4d73-a28b-11157ce6e8b7" width='600'>
 
+## Challenges
+I faced two challenges when I was developing this website.
+1. The first challenge is that, I struggled to import ReactJS files to Github, I watched many tutorials on how to tackle this challenge but couldn't get any help that is why it's only showing one langauge which is HTML.
+2. The second challenge is that, when a user opens the website, it doesn't land on a home page, I don't know how that happened but I'm working fixing it.
+## Some noticable improvements that could be made
+1. The website need to land on a home page.
+2. Signup page must be functioning
+3. About me, icon links need to function
+4. Might add AI Chatbot that will assist customers when browsing through the website. 
