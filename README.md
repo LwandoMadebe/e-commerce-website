@@ -84,8 +84,9 @@ This includes all nails products that they are being sold at Adorn Products and 
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/8ba5d881-fded-41cb-a88d-44e455f3f9fd" width='600'>
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7c2438a2-d297-49e5-a81b-84a58f019b53" width='600'>
 
-#### Login page 
-This is a login page where customers can login using their login details in order to continue shopping. 
+#### Signup page 
+This is a signup page where customers can signuo using their login details in order to continue shopping. 
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/1aeb5d42-08bd-49c4-ae56-d85cef3f3909" width='600'>
 
 #### Cart page 
 All the products that customers selected will be added here and they will be displayed. Customer can remove products and the total price of the products that they added to cart will be displayed. 
