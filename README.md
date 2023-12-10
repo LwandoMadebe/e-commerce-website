@@ -40,52 +40,43 @@ Describes the interactions between the system and its environment independent fr
 5. If the customer have a promo code they can enter it.
 
 ## Screenshots of how website is functioning 
-
-
-
-
-
-
-
-
-
-
-
-
 #### Shop page/Home page
 This is a home page but it's not working as I expected because when a user opens the website, this should be a landing page. 
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7480a237-de9d-40c5-b541-bed09ea343f1" width='600'>
 ###### Best Sellers Section 
 These are most bought items that Adorn Products is Selling and it's includs all 4 categories. 
-![Screenshot 2023-12-04 03 35 54](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08cd2fb5-5392-441a-97a7-14331566dd92)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08cd2fb5-5392-441a-97a7-14331566dd92" width='600'>
 ###### New Collections
 These are the new products that recently arrived in the stock. This shows the customer that we have a new items available and we are grabbing the attention of the customer. 
-![Screenshot 2023-12-04 03 42 39](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33" width='600'>
 ###### Newsletter
 If the customer wants to know more about are trends and tops deals they can subscribe below so that they will receive emails from our store. 
-![Screenshot 2023-12-04 03 43 07](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b4b6e8e3-9650-44db-ab6c-164b4a6d080a)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b4b6e8e3-9650-44db-ab6c-164b4a6d080a" width='600'>
 ###### Footer
 Here we display the relavant information about the company, products and Services. Please notes the link are not get working 
-![Screenshot 2023-12-04 03 43 26](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/ebf72cac-55e5-4d43-a309-7160a7533b3b)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/ebf72cac-55e5-4d43-a309-7160a7533b3b" width='600'>
 #### Services 
 Since Adorn Products is also providing services, it's very important to display what kind of service they provide apart from selling products. 
-![Screenshot 2023-12-04 03 43 56](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45" width='600'>
 #### Nails Category 
 This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected. 
-![Screenshot 2023-12-04 03 44 29](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b16dd090-35f5-47b0-a742-8dd4eb331efd)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b16dd090-35f5-47b0-a742-8dd4eb331efd" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/9f429fd6-91fc-436e-8322-4c863a027d87" width='600'>
 
 #### Jewelry Category 
 This includes all jewelry products that they are being sold at Adorn Products and customers can add to cart their products they have selected
-![Screenshot 2023-12-04 03 45 19](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0643ac4f-3852-4abc-9a6b-be77a3146ada)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0643ac4f-3852-4abc-9a6b-be77a3146ada" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/f25fe8c9-0c42-44b8-8741-0ba9f9b9d2c4" width='600'>
 
 #### Hair Category
 This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected
-
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/8ba5d881-fded-41cb-a88d-44e455f3f9fd" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7c2438a2-d297-49e5-a81b-84a58f019b53" width='600'>
 
 #### Login page 
 This is a login page where customers can login using their login details in order to continue shopping. 
 
 #### Cart page 
 All the products that customers selected will be added here and they will be displayed. Customer can remove products and the total price of the products that they added to cart will be displayed. 
-![Screenshot 2023-12-04 03 58 01](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6)
-![Screenshot 2023-12-04 03 57 37](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96)
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96" width='600'>
