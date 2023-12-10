@@ -40,9 +40,7 @@ Describes the interactions between the system and its environment independent fr
 5. If the customer have a promo code they can enter it.
 
 ## Screenshots of how website is functioning 
-![Screenshot 2023-12-04 03 35 54](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08cd2fb5-5392-441a-97a7-14331566dd92)
-![Screenshot 2023-12-04 03 42 39](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33)
-![Screenshot 2023-12-04 03 43 07](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/047e9816-518a-4e02-b2db-a653b3099a81)
+
 ![Screenshot 2023-12-04 03 43 26](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7a6ba03d-d3fd-403d-9bb0-560c70976308)
 ![Screenshot 2023-12-04 03 43 56](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45)
 ![Screenshot 2023-12-04 03 44 29](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b16dd090-35f5-47b0-a742-8dd4eb331efd)
@@ -55,16 +53,16 @@ Describes the interactions between the system and its environment independent fr
 
 #### Shop page/Home page
 This is a home page but it's not working as I expected because when a user opens the website, this should be a landing page. 
-<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7480a237-de9d-40c5-b541-bed09ea343f1" width='300'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7480a237-de9d-40c5-b541-bed09ea343f1" width='600'>
 ###### Best Sellers Section 
 These are most bought items that Adorn Products is Selling and it's includs all 4 categories. 
-
+![Screenshot 2023-12-04 03 35 54](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08cd2fb5-5392-441a-97a7-14331566dd92)
 ###### New Collections
 These are the new products that recently arrived in the stock. This shows the customer that we have a new items available and we are grabbing the attention of the customer. 
-
+![Screenshot 2023-12-04 03 42 39](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33)
 ###### Newsletter
 If the customer wants to know more about are trends and tops deals they can subscribe below so that they will receive emails from our store. 
-
+![Screenshot 2023-12-04 03 43 07](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/047e9816-518a-4e02-b2db-a653b3099a81)
 ###### Footer
 Here we display the relavant information about the company, products and Services. Please notes the link are not get working 
 
