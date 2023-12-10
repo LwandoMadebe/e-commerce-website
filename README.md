@@ -90,5 +90,6 @@ This is a login page where customers can login using their login details in orde
 #### Cart page 
 All the products that customers selected will be added here and they will be displayed. Customer can remove products and the total price of the products that they added to cart will be displayed. 
 
-<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6" width='600'>
-<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c8bb6bf9-271a-4b0b-949e-2eb5ae950155" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/9c352979-a77e-4d73-a28b-11157ce6e8b7" width='600'>
+
