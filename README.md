@@ -40,9 +40,22 @@ Describes the interactions between the system and its environment independent fr
 5. If the customer have a promo code they can enter it.
 
 ## Screenshots of how website is functioning 
+![Screenshot 2023-12-04 03 35 54](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08cd2fb5-5392-441a-97a7-14331566dd92)
+![Screenshot 2023-12-04 03 42 39](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/55075fd4-508c-45f2-8083-66efde191a33)
+![Screenshot 2023-12-04 03 43 07](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/047e9816-518a-4e02-b2db-a653b3099a81)
+![Screenshot 2023-12-04 03 43 26](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7a6ba03d-d3fd-403d-9bb0-560c70976308)
+![Screenshot 2023-12-04 03 43 56](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45)
+![Screenshot 2023-12-04 03 44 29](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/b16dd090-35f5-47b0-a742-8dd4eb331efd)
+![Screenshot 2023-12-04 03 45 19](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0643ac4f-3852-4abc-9a6b-be77a3146ada)
+![Screenshot 2023-12-04 03 54 06](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/8898893b-43d6-417c-800f-fe4a77a8392e)
+![Screenshot 2023-12-04 03 57 37](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7956db5a-32ca-4c4d-b904-b921d4781a96)
+![Screenshot 2023-12-04 03 58 01](https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/c2ace8bf-ee93-466d-acbd-73ec584af9b6)
+
+
+
 #### Shop page/Home page
 This is a home page but it's not working as I expected because when a user opens the website, this should be a landing page. 
-
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7480a237-de9d-40c5-b541-bed09ea343f1" width='300'>
 ###### Best Sellers Section 
 These are most bought items that Adorn Products is Selling and it's includs all 4 categories. 
 
