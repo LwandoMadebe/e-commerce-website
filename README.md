@@ -29,7 +29,7 @@ https://lwandomadebe.github.io/e-commerce-website
 ## Functional Requirements 
 Describes the interactions between the system and its environment independent from the implementation. 
 
-1. The customer can browse through the website and select items to add to a cart. 
+1. The customer can browse through the website and view items to add to a cart. 
 
 2. The customer may check the what they added on their shopping cart
 
