@@ -38,14 +38,21 @@ Describes the interactions between the system and its environment independent fr
 4. The customer can log in using their details
 
 5. If the customer have a promo code they can enter it.
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/fa6750b1-936f-446e-93d3-bc431b89d2d3" width='600'>
+<img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/f1110d87-3ae3-4d97-9aa4-dffb1a87b594" width='600'>
+
 
 ## Screenshots of how website is functioning 
 #### Shop page/Home page
 This is a home page but it's not working as I expected because when a user opens the website, this should be a landing page. 
+
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/7480a237-de9d-40c5-b541-bed09ea343f1" width='600'>
+
 ###### Best Sellers Section 
 These are most bought items that Adorn Products is Selling and it's includs all 4 categories. 
+
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/08cd2fb5-5392-441a-97a7-14331566dd92" width='600'>
+
 ###### New Collections
 These are the new products that recently arrived in the stock. This shows the customer that we have a new items available and we are grabbing the attention of the customer. 
 
