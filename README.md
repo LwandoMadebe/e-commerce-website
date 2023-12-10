@@ -60,10 +60,12 @@ If the customer wants to know more about are trends and tops deals they can subs
 Here we display the relavant information about the company, products and Services. Please notes the link are not get working 
 
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/ebf72cac-55e5-4d43-a309-7160a7533b3b" width='600'>
+
 #### Services 
 Since Adorn Products is also providing services, it's very important to display what kind of service they provide apart from selling products. 
 
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/0832e373-a1d7-4d3b-b124-77de80c0bd45" width='600'>
+
 #### Nails Category 
 This includes all nails products that they are being sold at Adorn Products and customers can add to cart their products they have selected. 
 
