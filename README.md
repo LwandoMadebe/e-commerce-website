@@ -38,7 +38,13 @@ Describes the interactions between the system and its environment independent fr
 4. The customer can log in using their details
 
 5. If the customer have a promo code they can enter it.
+## User Case Diagram
+User case are used analyse the software's requirements, there are 3 main components in user case diagram, the first one is functional requirement which is already mentioned above and they are displayed inside user cases. The second one is actors, in this case we have one actor which is the customer, they interact with the system. The last one is relationship which is between actors and user cases, they are represeted by dotted lines with straight arrows.
+
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/fa6750b1-936f-446e-93d3-bc431b89d2d3" width='600'>
+
+### Class Diagram for Shopping Cart 
+Cart plays an important role in customers experience and when they add their products to cart, they should be able to proceed with the checkout, in this diagrams shows what shopping cart contains when a customer add their products to cart that includes +addProducts(),RemoveProduct(), ProceedtoCheckout(), etc.
 <img src="https://github.com/LwandoMadebe/e-commerce-website/assets/147529941/f1110d87-3ae3-4d97-9aa4-dffb1a87b594" width='600'>
 
 
